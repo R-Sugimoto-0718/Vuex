@@ -22,7 +22,7 @@ export default {
       return this.$store.state.products
     },
     ...mapGetters([
-      'saleProducts'
+      'salePro ducts'
     ])
   }, 
   methods: {
